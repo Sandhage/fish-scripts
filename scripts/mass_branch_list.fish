@@ -18,5 +18,5 @@ function mass_branch_list --description "Recursively list all the git projects w
 	echo ""
     end
 
-    printf '\n  %s' "... Opportunities multiply as they are seized. - Sun Tzu, probably"
+    printf '\n  %s \n' "... Opportunities multiply as they are seized. - Sun Tzu, probably"
 end
